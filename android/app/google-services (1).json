@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813281822654",
+    "project_id": "bot-ai-da4aa",
+    "storage_bucket": "bot-ai-da4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813281822654:android:937021db2608df83525bef",
+        "android_client_info": {
+          "package_name": "com.example.bot_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuo_856Qy7mwD_Bl9tF989r9YXuIy8kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
